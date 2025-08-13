@@ -12,14 +12,13 @@
 
 [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- mmWave NLOS Imaging Model.
-- **Academic Impact**:  
-- **Industry Impact**: 
+- **Method**: Sparse Method.
+- **Academic Contribution**:   
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2023</div><img src='images/iot.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ 2023</div><img src='images/iot.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Leveraging Rough-Relay-Surface Scattering for Non-Line-of-Sight mmWave Radar Sensing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10298635) \\
@@ -27,20 +26,22 @@
  [**IEEE Internet of Things Journal (IoTJ)**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) 2023
 
 [**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-  - This work is included by many famous speech synthesis open-source projects. 
+- **Method**: Tensor.
+- **Academic Contribution**: 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SPL 2025</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) \\ 
-Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
-
+[Bayesian Compressive Sensing for NLOS mmWave Imaging under Imprecisely Multiangle Surfaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10988669) \\ 
+**You Xu**, Guanghua Liu, Xiaotong Lu, Lixia Xiao, Tao Jiang
+ [**IEEE Signal Processing Letters (SPL)**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) 2025
+ 
 [**Project**](https://boostprompt.github.io/boostprompt/) 
-  - This work has been deployed on many TikTok products.
-  - Advandced zero-shot voice cloning model.
+- **Method**: Bayesian Compressive Sensing.
+- **Academic Contribution**: 
 </div>
 </div>
 

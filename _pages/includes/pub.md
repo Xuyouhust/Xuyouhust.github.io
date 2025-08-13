@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## 📚 mmWave Signal Processing
+## 📚 mmWave/MIMO Signal Processing
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP 2024</div><img src='images/tsp.jpg' alt="sym" width="100%"></div></div>
@@ -60,7 +60,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PIMRC 2025</div><img src='images/pimrc.ipg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PIMRC 2025</div><img src='images/pimrc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Metasurface-Aided near-Field mmWave Sparse Imaging Via Fused Binary Compressive Sensing](https://arxiv.org/abs/2109.15166) \\
@@ -74,10 +74,10 @@
 </div>
 </div>
 
-- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
-- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
-- ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
-- ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
+- ``NEWC 2024`` [Anti-spoofing Jamming Radar System based on Adaptive Waveform Selection](https://arxiv.org/abs/2312.11947), **You Xu**,  Chao Xie, Xiaotong Lu,  Guanghua Liu, Tao Jiang.
+- ``IEEE TWC 2024`` [LoRaAid: Underground Joint Communication and Localization System Based on LoRa Technology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10295375), Huajin Zhang, Guanghua  Liu, **You Xu**, Tao Jiang.
+- ``IEEE IoTJ 2021`` [A CP Reduction Scheme Based on Symbol Repetition for Narrow-Band IoT Systems](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
+- ``IEEE TASE 2025`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
 - ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, et al.
 - ``ACL 2023`` [Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech](), Rongjie Huang, Chunlei Zhang, **Yi Ren**, et al.
 - `ICLR 2023` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn), **Yi Ren**, Chen Zhang, Shuicheng Yan

@@ -7,7 +7,8 @@
 <div class='paper-box-text' markdown="1">
 
 [Double Sparse Structure-enhanced mmWave NLOS Imaging under Multiangle Relay Surface](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10768923) \\
-**You Xu**,  Guanghua Liu, Xiaotong Lu, Chao Xie, Lixia Xiao, Tao Jiang
+**You Xu**,  Guanghua Liu, Xiaotong Lu, Chao Xie, Lixia Xiao, Tao Jiang \\
+[**IEEE Transactions on Signal Processing (TSP)**](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=78)
 
 [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 

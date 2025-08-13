@@ -76,9 +76,9 @@
 
 - ``NEWC 2024`` [Anti-spoofing Jamming Radar System based on Adaptive Waveform Selection](https://arxiv.org/abs/2312.11947), **You Xu**,  Chao Xie, Xiaotong Lu,  Guanghua Liu, Tao Jiang.
 - ``IEEE TWC 2024`` [LoRaAid: Underground Joint Communication and Localization System Based on LoRa Technology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10295375), Huajin Zhang, Guanghua  Liu, **You Xu**, Tao Jiang.
-- ``IEEE IoTJ 2021`` [A CP Reduction Scheme Based on Symbol Repetition for Narrow-Band IoT Systems](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
-- ``IEEE TASE 2025`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
-- ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, et al.
+- ``IEEE IoTJ 2021`` [A CP Reduction Scheme Based on Symbol Repetition for Narrow-Band IoT Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9369374), Dejin Kong, **You Xu**, Guochao Song, Jian Li, Tao Jiang.
+- ``IEEE TASE 2025`` [A Radar System with Adaptive Waveform Selection against Dynamic Spoofing Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10755168), Chao Xie, Guanghua Liu, **You Xu**, Xiaotong Lu, Tao Jiang.
+- ``IEEE SL 2024`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, et al.
 - ``ACL 2023`` [Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech](), Rongjie Huang, Chunlei Zhang, **Yi Ren**, et al.
 - `ICLR 2023` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn), **Yi Ren**, Chen Zhang, Shuicheng Yan
 - `INTERSPEECH 2023` [StyleS2ST: zero-shot style transfer for direct speech-to-speech translation](https://arxiv.org/abs/2305.17732), Kun Song, **Yi Ren**, Yi Lei, et al.

@@ -37,7 +37,7 @@
 
 [Bayesian Compressive Sensing for NLOS mmWave Imaging under Imprecisely Multiangle Surfaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10988669) \\ 
 **You Xu**, Guanghua Liu, Xiaotong Lu, Lixia Xiao, Tao Jiang
- [**IEEE Signal Processing Letters (SPL)**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) 2025
+ [**IEEE Signal Processing Letters (SPL)**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97) 2025
  
 [**Project**](https://boostprompt.github.io/boostprompt/) 
 - **Method**: Bayesian Compressive Sensing.
@@ -46,16 +46,16 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBC 2021</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
-Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
+[An Imaginary Interference-Free Method for MIMO Precoding in FBMC/OQAM Systems](https://ieeexplore.ieee.org/document/9336695) \\
+**You Xu**, Zhongxiu Feng, Jing Zou, Dejin Kong, Yu Xin, Tao Jiang
+ [**IEEE Transactions on Broadcasting (TBC)**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=11) 2021
 
-- Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
-- DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (1600k+ views) on Bilibili!
-
-- [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
+- [**Project**](https://diffsinger.github.io/)
+- **Method**: MIMO Precoding.
+- **Academic Contribution**: 
 </div>
 </div>
 

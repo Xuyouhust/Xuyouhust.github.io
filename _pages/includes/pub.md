@@ -3,7 +3,7 @@
 ## 🎙 Speech Synthesis
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP 2024</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP 2024</div><img src='images/tsp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Double Sparse Structure-enhanced mmWave NLOS Imaging under Multiangle Relay Surface](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10768923) \\

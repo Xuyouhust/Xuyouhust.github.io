@@ -1,8 +1,7 @@
 
 # 📝 Publications 
-## 📚 mmWave/MIMO Signal Processing
-
-
+## 📡 Signal Processing for mmWave Sensing
+ 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP 2024</div><img src='images/tsp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,17 +48,6 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBC 2021</div><img src='images/tbc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Imaginary Interference-Free Method for MIMO Precoding in FBMC/OQAM Systems](https://ieeexplore.ieee.org/document/9336695) \\
-**You Xu**, Zhongxiu Feng, Jing Zou, Dejin Kong, Yu Xin, Tao Jiang\\
- [**IEEE Transactions on Broadcasting (TBC)**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=11) 2021
-
-- [**Project**](https://diffsinger.github.io/)
-- **Method**: MIMO Precoding.
-- **Academic Contribution**: 
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PIMRC 2025</div><img src='images/pimrc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -74,11 +62,23 @@
 </div>
 </div>
 
-- ``NEWC 2024`` [Anti-spoofing Jamming Radar System based on Adaptive Waveform Selection](https://arxiv.org/abs/2312.11947), **You Xu**,  Chao Xie, Xiaotong Lu,  Guanghua Liu, Tao Jiang.
-- ``IEEE TWC 2024`` [LoRaAid: Underground Joint Communication and Localization System Based on LoRa Technology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10295375), Huajin Zhang, Guanghua  Liu, **You Xu**, Tao Jiang.
-- ``IEEE IoTJ 2021`` [A CP Reduction Scheme Based on Symbol Repetition for Narrow-Band IoT Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9369374), Dejin Kong, **You Xu**, Guochao Song, Jian Li, Tao Jiang.
+- ``NEWC 2024`` [Anti-spoofing Jamming Radar System based on Adaptive Waveform Selection](), **You Xu**,  Chao Xie, Xiaotong Lu,  Guanghua Liu, Tao Jiang.
 - ``IEEE TASE 2025`` [A Radar System with Adaptive Waveform Selection against Dynamic Spoofing Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10755168), Chao Xie, Guanghua Liu, **You Xu**, Xiaotong Lu, Tao Jiang.
 - ``IEEE SL 2024`` [Virtual Multiview Fusion for Millimeter Wave Radar Point Cloud Generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10670310), Xiaotong Lu, Guanghua Liu,  **You Xu**, Chao Xie, Lixia Xiao, Tao Jiang.
--  ``IEEE GlobeCom 2024`` [Virtual Multiview Fusion for Millimeter Wave Radar Point Cloud Generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10670310), Xiaotong Lu, Guanghua Liu,  **You Xu**, Chao Xie, Lixia Xiao, Tao Jiang. 
-- ``IEEE WCM 2025`` [Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective](https://openreview.net/forum?id=Rp4PA0ez0m), Pengfei Wei, Lingdong Kong, Xinghua Qu, **Yi Ren**, et al.
-- ``JBUPT 2023`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
+-  ``IEEE GlobeCom 2024`` [Virtual Multiview Fusion for mmWave Imaging Assisted by Multiple Metasurfaces](), Xiaotong Lu, Guanghua Liu, **You Xu**,  Haoran Yuan. 
+- ``IEEE WCM 2025`` [MmWave NLOS Sensing under Rough Relay Surface: Challenges and Solutions](), Guanhua Liu, Xiaotong Lu, **You Xu**, Wenyi Le, Zongping Li.
+
+## 📶 Signal Processing for mmWave/MIMO Communications
+[An Imaginary Interference-Free Method for MIMO Precoding in FBMC/OQAM Systems](https://ieeexplore.ieee.org/document/9336695) \\
+**You Xu**, Zhongxiu Feng, Jing Zou, Dejin Kong, Yu Xin, Tao Jiang\\
+ [**IEEE Transactions on Broadcasting (TBC)**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=11) 2021
+
+- [**Project**](https://diffsinger.github.io/)
+- **Method**: MIMO Precoding.
+- **Academic Contribution**: 
+</div>
+</div>
+ 
+- ``IEEE TWC 2024`` [LoRaAid: Underground Joint Communication and Localization System Based on LoRa Technology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10295375), Huajin Zhang, Guanghua  Liu, **You Xu**, Tao Jiang.
+- ``IEEE IoTJ 2021`` [A CP Reduction Scheme Based on Symbol Repetition for Narrow-Band IoT Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9369374), Dejin Kong, **You Xu**, Guochao Song, Jian Li, Tao Jiang.
+- ``JBUPT 2023`` [High Time-Frequency Efficiency Generalized Filter Banks Frequency Division Multiplexing Modulation Scheme](https://journal.bupt.edu.cn/CN/Y2023/V46/I4/109), Yu Xin, **You Xu**, Huaijin Zhang, Tong Bao, Dejin Kong.

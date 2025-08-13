@@ -32,7 +32,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SPL 2025</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SPL 2025</div><img src='images/spl.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bayesian Compressive Sensing for NLOS mmWave Imaging under Imprecisely Multiangle Surfaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10988669) \\ 

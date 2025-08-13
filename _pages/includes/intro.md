@@ -10,8 +10,8 @@ I am on the job market for postdoc and industry research scientist positions. Pl
 # 🖥️Research
 ------
 My research goal is to ground logical goals and sensory information in robot skills. To achieve this, I study planning for robot manipulation with learned relational dynamics. Specifically, I focus on learning to predict relational dynamics from partial-view point clouds, which enables the robot to solve challenging real-world tasks including:
-Planning to logical goals with manipulating multiple dynamically interacting objects (RD-GNN).
-Reasoning about how the manipulated objects interact with the structural elements of the environment (eRDTransformer).
-Leveraging objects-oriented memory with a video tracker to reason about occluded objects (DOOM and LOOM).
-Solving long-horizon manipulation tasks with a composable planning framework (Points2Plans).
-Detecting failure cases, recovering from them, and improving the dynamics model using these cases (Fail2Progress).
+- Planning to logical goals with manipulating multiple dynamically interacting objects (RD-GNN).
+- Reasoning about how the manipulated objects interact with the structural elements of the environment (eRDTransformer).
+- Leveraging objects-oriented memory with a video tracker to reason about occluded objects (DOOM and LOOM).
+- Solving long-horizon manipulation tasks with a composable planning framework (Points2Plans).
+- Detecting failure cases, recovering from them, and improving the dynamics model using these cases (Fail2Progress).

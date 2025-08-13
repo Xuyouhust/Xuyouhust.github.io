@@ -46,7 +46,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBC 2021</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBC 2021</div><img src='images/tbc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Imaginary Interference-Free Method for MIMO Precoding in FBMC/OQAM Systems](https://ieeexplore.ieee.org/document/9336695) \\
@@ -60,13 +60,17 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PIMRC 2025</div><img src='images/pimrc.ipg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
-**Yi Ren**, Jinglin Liu, Zhou Zhao
+[Metasurface-Aided near-Field mmWave Sparse Imaging Via Fused Binary Compressive Sensing](https://arxiv.org/abs/2109.15166) \\
+**You Xu**,  Guanghua Liu, Huaijin  Zhang. Xiaotong Lu, Lixia Xiao and Tao Jiang
+[**IEEE 36th International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) (TBC)**](https://pimrc2025.ieee-pimrc.org/) 2025
+
 
 [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
+- **Method**: MIMO Precoding.
+- **Academic Contribution**: 
 </div>
 </div>
 

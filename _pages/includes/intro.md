@@ -7,7 +7,7 @@ My research interest includes mmWave Sensing, sparse signal processing and NLOS 
 
 I am on the job market for postdoc and industry research scientist positions. Please reach out if you are interested in my research! Here is my Research Statement. 
  
-# 🖥️Research
+# 🖥️Research Statement
 ------
 My research goal is to ground logical goals and sensory information in robot skills. To achieve this, I study planning for robot manipulation with learned relational dynamics. Specifically, I focus on learning to predict relational dynamics from partial-view point clouds, which enables the robot to solve challenging real-world tasks including:
 - Planning to logical goals with manipulating multiple dynamically interacting objects (RD-GNN).

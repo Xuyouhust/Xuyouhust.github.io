@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: " mmWave Platforms"
-    url: "/#-mmwave-platforms"
+# - title: " mmWave Platforms"
+#  url: "/#-mmwave-platforms"
 
   - title: "Educations"
     url: "/#-educations"
@@ -18,5 +18,5 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: " Internships"
-    url: "/#-internships"
+  - title: " Experience"
+    url: "/#-experience"

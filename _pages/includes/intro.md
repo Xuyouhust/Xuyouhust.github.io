@@ -10,8 +10,8 @@ I am on the job market for postdoc and industry research scientist positions. Pl
 # 🖥️Research Statement
 ------
 My research goal is to leverage environmental information and millimeter-wave (mmWave) radar sensing to reconstruct non-line-of-sight (NLOS) target features in dark, complex underground environments such as mines and tunnels. To achieve this, I am investigating mmWave sparse signal reconstruction and electromagnetic imaging techniques for hidden target detection. Specifically, I focus on extracting high-fidelity target characteristics from multipath echoes, enabling UAVs, robots, or autonomous vehicles to perceive and navigate through occluded and geometrically uncertain spaces:
-- Analysis and Design of Relay Surface Characteristics: Investigate the scattering properties of three key types of rough relay surfaces \| Design optimized relay surfaces
-- Multipath Signal Processing and Sparse Reconstruction: mmWave imaging resolution using compressed sensing and Bayesian.
-- Adaptive NLOS Sensing System Development: Design a reconfigurable mmWave radar system capable of dynamically adjusting beamforming and signal processing based on relay surface properties.
-- Experimental Validation in Real-World Scenarios: Deploy and test the system in realistic underground environments.
+- **Analysis and Design of Relay Surface Characteristics**: Investigate the scattering properties of three key types of rough relay surfaces \| Design optimized relay surfaces
+- **Multipath Signal Processing and Sparse Reconstruction**: mmWave imaging resolution using compressed sensing and Bayesian \| Develop advanced signal separation techniques to isolate true target signatures.
+- **Adaptive NLOS Sensing System Development**: Design a reconfigurable mmWave radar system capable of dynamically adjusting beamforming and signal processing based on relay surface properties.
+- **Experimental Validation in Real-World Scenarios**: Conduct lab-scale experiments using controlled rough surfaces to validate signal models\| Deploy and test the system in realistic underground environments.
  

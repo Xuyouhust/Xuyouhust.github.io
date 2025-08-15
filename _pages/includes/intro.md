@@ -9,9 +9,9 @@ I am on the job market for postdoc and industry research scientist positions. Pl
  
 # 🖥️Research Statement
 ------
-My research goal is to ground logical goals and sensory information in robot skills. To achieve this, I study planning for robot manipulation with learned relational dynamics. Specifically, I focus on learning to predict relational dynamics from partial-view point clouds, which enables the robot to solve challenging real-world tasks including:
-- Planning to logical goals with manipulating multiple dynamically interacting objects (RD-GNN).
-- Reasoning about how the manipulated objects interact with the structural elements of the environment (eRDTransformer).
-- Leveraging objects-oriented memory with a video tracker to reason about occluded objects (DOOM and LOOM).
-- Solving long-horizon manipulation tasks with a composable planning framework (Points2Plans).
-- Detecting failure cases, recovering from them, and improving the dynamics model using these cases (Fail2Progress).
+My research goal is to leverage environmental information and millimeter-wave (mmWave) radar sensing to reconstruct non-line-of-sight (NLOS) target features in dark, complex underground environments such as mines and tunnels. To achieve this, I am investigating mmWave sparse signal reconstruction and electromagnetic imaging techniques for hidden target detection. Specifically, I focus on extracting high-fidelity target characteristics from multipath echoes, enabling UAVs, robots, or autonomous vehicles to perceive and navigate through occluded and geometrically uncertain spaces:
+- Analysis and Design of Relay Surface Characteristics: Investigate the scattering properties of three key types of rough relay surfaces \| Design optimized relay surfaces
+- Multipath Signal Processing and Sparse Reconstruction: mmWave imaging resolution using compressed sensing and Bayesian.
+- Adaptive NLOS Sensing System Development: Design a reconfigurable mmWave radar system capable of dynamically adjusting beamforming and signal processing based on relay surface properties.
+- Experimental Validation in Real-World Scenarios: Deploy and test the system in realistic underground environments.
+ 
